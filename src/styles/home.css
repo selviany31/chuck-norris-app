@@ -96,6 +96,6 @@ select:invalid{
     justify-content: space-between;
     align-items: center;
     width: 343px;
-    position: fixed;
-    bottom: 30px;
+    /* position: fixed; */
+    bottom: 100px;
 }
